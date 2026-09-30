@@ -1,0 +1,12 @@
+{
+  "name": "mindharbor-booking-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MindHarbor fictional-expert booking, CRM and automation demonstration",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js && node --check booking-live.js && node --check crm-demo.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED"
+}
