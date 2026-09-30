@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+demo-bookings.json
+demo-bookings.json.tmp
+demo-crm.json
+demo-automation.json
+*.log
+.DS_Store
